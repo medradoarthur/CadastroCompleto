@@ -1,0 +1,4 @@
+Utilizado o ASP.NET para o CRUD;
+Usei o Bootstrap para criar a arte do site;
+No fonte deixei um usuário Admin padrão(adm senha: 123), para ter acesso total ao sistema e realizar todas as alterações;
+É possível adicionar contato e usuário(tive um problema no meu pc, que não deu tempo para terminar a funcionalidade para fornecedores e produtos, tinha criado um modelo onde teria relação entre todas as tabelas)
